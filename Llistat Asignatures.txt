@@ -1,0 +1,9 @@
+UF3 Esdeveniments. Manegament de formularis. Model d'objectes del document.
+UF4 Bases de dades
+Programació II
+MP7: Desenvolupament web en entorn servidor UF1 UF2 UF3
+MP6: Desenvolupament web en entorn client UF1 UF2
+Mòdul 12: Projecte de desenvolupament d'aplicacions web
+Mòdul 9: Disseny d'interfícies web
+MP8: Desplegament d'aplicacions web UF1 UF2 UF3 UF4
+UF4 Serveis web. Pàgines dinàmiques interactives. Webs Híbrids
